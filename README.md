@@ -3,7 +3,7 @@
 
 Welcome to my DSA repository! This project serves as a comprehensive log of my progress, problem-solving methodologies, and implementations of core computer science concepts. 
 
-## 🚀 My Engineering Approach
+##  My Engineering Approach
 To ensure a deep structural understanding of every algorithm rather than just memorizing syntax, I follow a strict three-step engineering workflow:
 1. **Analyze & Comprehend:** Thoroughly read the problem statement to identify edge cases, time complexity constraints, and optimal data structures.
 2. **Pseudocode Blueprinting:** Draft the logic and control flow away from the IDE. This helps abstract the logic and ensures language-agnostic conceptual clarity.
@@ -16,7 +16,7 @@ To ensure a deep structural understanding of every algorithm rather than just me
 
 ---
 
-## 📈 Active Portfolio Strategy
+## Active Portfolio Strategy
 
 ### 1. Workflow Optimization
 * **Hybrid Coding:** I balance my time by building complete structural implementations for complex architectures, while focusing heavily on conceptual pseudocode blueprints for algorithmic variations.
